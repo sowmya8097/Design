@@ -1,0 +1,66 @@
+form{
+    font-family: 'Roboto', sans-serif;
+}
+.form-horizontal .header{
+    background: #d86b0e00;
+    font-size: 45px;
+    color: #fff;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+    padding: 1em 0 0.4em 0
+}
+.form-horizontal .heading{
+    font-size: 20px;
+    color: black;
+    margin: 10px 0 20px 0;
+    text-transform: capitalize;
+}
+.form-horizontal .form-content{
+    padding: 25px;
+    background: #29272730;;
+    border-radius: 5px; 
+}
+.form-horizontal .form-control{
+    padding: 12px 16px 12px 39px;
+    height: 50px;
+    font-size: 14px;
+    color: #2b2a2a;
+    border:3px solid #d9d9d9;
+    border-bottom: 2px solid #ccc;
+    border-radius: 5px;
+    box-shadow: none;
+    margin-bottom: 15px;
+}
+.form-horizontal .form-control:focus{
+    border-color: #3f9cb5;
+    box-shadow: none;
+}
+.form-horizontal .control-label{
+    font-size: 17px;
+    color: #ccc;
+    position: absolute;
+    top: 5px;
+    left: 27px;
+    text-align: center;
+}
+.form-horizontal textarea.form-control{
+    resize: vertical;
+    height: 130px;
+}
+.form-horizontal .btn{
+    font-size: 18px;
+    color: #4e4e4e;
+    float: right;
+    margin: 10px 0;
+    border: 2px solid #ccc;
+    border-radius: 0;
+    padding: 10px 25px;
+    transition: all 0.5s ease 0s;
+}
+.form-horizontal .btn:hover{
+    background: #fff;
+    border-color: #3f9cb5;
+}
+License Terms
