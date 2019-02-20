@@ -488,7 +488,7 @@ pre {
   overflow-y: scroll; }
 
 .container {
-  margin-right: auto;
+  margin-right: none;
   margin-left: auto;
   padding-right: 15px;
   padding-left: 15px;
